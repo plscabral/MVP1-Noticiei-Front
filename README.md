@@ -76,11 +76,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 2. Rode os comandos abaixo
    ```sh
-   npm install
-   ```
-  ou
-  ```sh
-   yarn install
+   npm install ou yarn install
    ```
 
 <!-- CONTACT -->
