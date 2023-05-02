@@ -74,7 +74,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/plscabral/MVP1-Noticiei-Front.git
    ```
-2. Rode os comandos abaixo
+2. Instalar as dependências do projeto
    ```sh
    npm install ou yarn install
    ```
