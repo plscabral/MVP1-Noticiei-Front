@@ -9,28 +9,6 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Índice</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sobre o projeto</a>
-      <ul>
-        <li><a href="#built-with">Tecnologias utilizadas</a></li>
-      </ul>
-    </li>
-    <li>
-      <ul>
-        <li><a href="#prerequisites">Pré-requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contato</a></li>
-  </ol>
-</details>
-
-
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
@@ -48,6 +26,11 @@ Desenvolvida para cumprir o MVP1 da pós de Engenharia de Software na PUCRJ no a
 * npm
   ```sh
   npm install npm@latest -g
+  ```
+
+* yarn
+  ```sh
+  npm install --global yarn
   ```
 
 ### Instalação
