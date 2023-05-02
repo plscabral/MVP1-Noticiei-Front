@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/plscabral/MVP1-Noticiei-Front">
-    <img src="favicon.png" alt="Logo" width="80" height="80">
+    <img src="/public/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Noticiei.</h3>
