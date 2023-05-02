@@ -5,7 +5,7 @@
     <img src="/public/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Noticiei.</h3>
+  <h3 align="center">Noticiei</h3>
 </div>
 
 
@@ -36,8 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -57,8 +55,8 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![React][React.js]][https://react.dev/]
-* [![ChakraUI][ChakraUI]][https://chakra-ui.com/]
+* [![React][React]][React-url]
+* [![Chakra][Chakra]][Chakra-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,3 +104,9 @@ _Below is an example of how you can instruct your audience on installing and set
 [![Gmail Badge](https://img.shields.io/badge/-paulo.luiz127@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:paulo.luiz127@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Chakra]: https://img.shields.io/badge/Chakra-20232A?style=for-the-badge&logo=chakraui&logoColor=61DAFB
+[Chakra-url]: https://chakra-ui.com/
