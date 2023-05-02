@@ -18,6 +18,7 @@ Desenvolvida para cumprir o MVP1 da pós de Engenharia de Software na PUCRJ no a
 
 * [![React][React]][React-url]
 * [![Chakra][Chakra]][Chakra-url]
+* [![Vite][Vite]][Vite-url]
 
 ### Pré-requisitos
 
@@ -44,6 +45,13 @@ Desenvolvida para cumprir o MVP1 da pós de Engenharia de Software na PUCRJ no a
    npm install ou yarn install
    ```
 
+### Execução
+
+1. Rodar o comando abaixo:
+   ```sh
+   npm run dev ou yarn dev
+   ```
+
 <!-- CONTACT -->
 ## Contato
 
@@ -55,3 +63,5 @@ Desenvolvida para cumprir o MVP1 da pós de Engenharia de Software na PUCRJ no a
 [React-url]: https://reactjs.org/
 [Chakra]: https://img.shields.io/badge/Chakra-20232A?style=for-the-badge&logo=chakraui&logoColor=61DAFB
 [Chakra-url]: https://chakra-ui.com/
+[Vite]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB
+[Vite-url]: https://vitejs.dev/
