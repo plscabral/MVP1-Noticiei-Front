@@ -47,10 +47,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Tecnologias utilizadas
 
 * [![React][React]][React-url]
@@ -74,21 +70,18 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clonar o repositório
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/plscabral/MVP1-Noticiei-Front.git
    ```
-3. Install NPM packages
+2. Rode os comandos abaixo
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+  ou
+  ```sh
+   yarn install
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contato
@@ -96,9 +89,6 @@ _Below is an example of how you can instruct your audience on installing and set
 [![Intagram Badge](https://img.shields.io/badge/-@plscabral-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://www.instagram.com/plscabral/)
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Cabral-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plscabral/)](https://www.linkedin.com/in/plscabral/)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.luiz127@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:paulo.luiz127@gmail.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
