@@ -34,7 +34,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -51,24 +51,18 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Tecnologias utilizadas
 
 * [![React][React]][React-url]
 * [![Chakra][Chakra]][Chakra-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Pré-requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -76,7 +70,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalação
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -97,7 +91,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 [![Intagram Badge](https://img.shields.io/badge/-@plscabral-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://www.instagram.com/plscabral/)
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Cabral-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plscabral/)](https://www.linkedin.com/in/plscabral/)
