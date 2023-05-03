@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-Desenvolvida para cumprir o MVP1 da pós de Engenharia de Software na PUCRJ no ano de 2023. Essa plataforma tem como objetivo, levar as noticias de uma forma fácil, simples e direta paras os usuários.
+Uma plataforma que tem como objetivo, levar as noticias de uma forma fácil, simples e direta paras seus usuários.
 
 ### Tecnologias utilizadas
 
